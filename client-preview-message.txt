@@ -1,0 +1,12 @@
+Here is the cinematic demo preview for your MERN chat + dating platform:
+
+This preview shows the design direction for:
+- Real-time chat interface
+- Dating and compatibility flow
+- User profile and match experience
+- Fully controlled admin dashboard
+- Secure backend/API structure concept
+
+The final build will be developed with React.js, Node.js, Express.js, MongoDB, Socket.io, JWT authentication, protected API routing, role-based authorization, and responsive cinematic UI animations.
+
+Once you approve this design direction, I can begin the full MERN stack development.
